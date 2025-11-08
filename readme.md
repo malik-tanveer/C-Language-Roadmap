@@ -1,15 +1,13 @@
 ---
 
-# 🧠 **2-Month C Language Roadmap (Windows Focused)**
-
+# 🧠 **2-Month C Language Roadmap**
 
 ---
 
 ## **Week 1 – Setup & C Basics**
 
-**Goal:** Setup Windows environment + basic syntax
 
-### 🔹 Setup Windows Environment
+### 🔹 Setup 
 
 1. Install **Code::Blocks** IDE with GCC Compiler
 
