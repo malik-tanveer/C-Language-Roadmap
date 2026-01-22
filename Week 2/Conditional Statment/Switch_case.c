@@ -126,24 +126,24 @@ int main()
     int user;
     printf("Enter a any Number like 1 to 10 :");
 
-    scanf("%d",&user);
-switch (user)
-{
-case 1:
-case 2:⁪
-case 3:
-case 4:
-case 5:
-case 6:
-case 7:
-case 8:
-case 9:
-case 10:
-    printf("Valid input\n");
-    break;
-default:
-    printf("Invalid input\n");
-}
+    scanf("%d", &user);
+    switch (user)
+    {
+    case 1:
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    case 6:
+    case 7:
+    case 8:
+    case 9:
+    case 10:
+        printf("Valid input\n");
+        break;
+    default:
+        printf("Invalid input\n");
+    }
 
     return 0;
 }
