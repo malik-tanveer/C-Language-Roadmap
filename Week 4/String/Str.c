@@ -44,6 +44,7 @@ int main()
 
     char name1[5];
     gets(name1);
+    
     printf("You Entered : ");
     puts(name1);
     
